@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+}
+.img-container{
+    width: 200px;
+    height: 150px;
+    top: 790px;
+    left: 420px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #0000004D;
+}
+.pricing{
+    font-family: poppins;
+}
+
+.button{
+    border-width: 0px;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: #fff;
+    background-color: #165315;
+
+}
+.btn{
+    font-size: 11px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: #165315;
+}
+.product-details-container{
+    width: 268px;
+    height: 90px;
+    top: 1133px;
+    left: 420px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 10px;
+}
+.view{
+    background-color: #165315;
+    color: #fff;
+    border-width: 0px;
+    width: 100%;
+}
+.filter-name{
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+}
+.rating{
+    width: 26px;
+    height: 22px;
+    top: 55px;
+    left: 97px;
+    gap: 0px;
+    opacity: 0px;
+}
+.stars{
+    width: 67px;
+    height: 15px;
+    top: 55px;
+    gap: 0px;
+    opacity: 0px;
+}
+.item-cart-list{
+    overflow-y: auto;
+    height: 432px;
+}
+.filter-items{
+    color: #6E6E6E;
+}
+.product-img{
+    width: 70px;
+    height: 134px;
+    top: 813px;
+    left: 1090px;
+    gap: 0px;
+    opacity: 0px;
+}
+.filter-symbo{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    line-height: 1.2;
+}
+.product-container{
+    width: 100%;
+    height: 480px;
+}
+.type{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    line-height: 0px;
+}
+.no-of-products{
+    margin-left: 38px;
+}
+.filter-container{
+    width: 304px;
+    height: 480px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F0FFE5;
+    border: solid #165315 2px;
+}
+.filter-items{
+    line-height: 1.2;
+}
+.pvr_price{
+    text-decoration: line-through;
+    color: #5E5A5AB2;
+}
+.rating-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    height: 15px;
+}
+
+
+.product-butn{
+    font-size: 8px;
+    padding: 4px;
+    margin-right:10px;
+    border-radius: 5px;
+    border-width: 0px;  
+    background-color: #165315;
+    color: #fff;
+}
+.button-container{
+    margin-top: -20px;
+}
+
+hr{
+    line-height: 1.2;
+}

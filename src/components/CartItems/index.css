@@ -8,7 +8,7 @@
     left: 420px;
     gap: 0px;
     border: 1px 0px 0px 0px;
-    opacity: 0px;
+    opacity: 1px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,7 +39,7 @@
     top: 1133px;
     left: 420px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
     padding-top: 10px;
 }
 .view{
@@ -61,14 +61,14 @@
     top: 55px;
     left: 97px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 }
 .stars{
     width: 67px;
     height: 15px;
     top: 55px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 }
 .item-cart-list{
     overflow-y: auto;
@@ -83,7 +83,7 @@
     top: 813px;
     left: 1090px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 }
 .filter-symbo{
     font-family: Inter;
@@ -112,7 +112,7 @@
     width: 304px;
     height: 480px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
     background: #F0FFE5;
     border: solid #165315 2px;
 }

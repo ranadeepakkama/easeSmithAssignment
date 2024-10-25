@@ -4,7 +4,7 @@
     top: 271px;
     left: 178px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 }
 .cart-button{
     background-color: #165315;
@@ -15,7 +15,7 @@
     top: 514px;
     left: 73px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 }
 .container-cart{
     background-color: #FFFFFF;
@@ -25,7 +25,7 @@
     left: 2px;
     gap: 0px;
     font-family: poppins;
-    opacity: 0px;
+    opacity: 1px;
 }
 .main-container{    
     height: 100vh;

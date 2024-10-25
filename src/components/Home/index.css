@@ -4,7 +4,7 @@
     top: 138px;
     left: 839px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 }
 .header{
     background: #165315;
@@ -28,7 +28,7 @@ input{
     left: 498px;
     gap: 0px;
     border: 1px 0px 0px 0px;
-    opacity: 0px;
+    opacity: 1px;
     border: 1px solid #00000099
 }
 
@@ -38,7 +38,7 @@ input{
     top: 219px;
     left: 94px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
     border: solid 165315 1px;
     font-family: Poppins;
     font-size: 20px;
@@ -52,7 +52,7 @@ input{
     height: 120px;
     left: 690px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
     border-radius:70px;
 }
 
@@ -62,7 +62,7 @@ input{
     top: 145px;
     left: 467px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 1px;
 
 }
 .details{
